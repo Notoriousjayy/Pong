@@ -1,0 +1,36 @@
+# Byte-compiled Python files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+pip-wheel-metadata/
+
+# Unit test / coverage
+htmlcov/
+.coverage
+.coverage.*
+.cache/
+.pytest_cache/
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# IDE / editor settings
+.idea/
+.vscode/
+*.sublime-*
+*.sw?
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
